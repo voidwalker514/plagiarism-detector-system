@@ -1,0 +1,46 @@
+======================================================================
+  PLAGIARISM DETECTION REPORT
+  Generated: 2026-06-07 10:55:53
+======================================================================
+  Original  : C:\Users\PC1\OneDrive\Desktop\Plagarism detector using string matching algorithm\documents/original.txt
+  Submitted : C:\Users\PC1\OneDrive\Desktop\Plagarism detector using string matching algorithm\documents/submitted.txt
+
+  SIMILARITY SCORES
+----------------------------------------
+  N-gram Overlap Score    : 54.21%
+  Sentence Match Score    : 46.67%
+  Word Frequency Score    : 92.66%
+  Jaccard Score           : 59.56%
+----------------------------------------
+  PLAGIARISM PERCENTAGE   : 58.09%
+  VERDICT                 : 🔴 HIGH PLAGIARISM  — Serious Concern (51-75%)
+
+  MATCHED SENTENCES (Naive)
+----------------------------------------
+  [1] SUBMITTED: Artificial intelligence is the simulation of human intelligence processes by computer systems.
+       ORIGINAL : Artificial intelligence is the simulation of human intelligence processes by computer systems.
+
+  [2] SUBMITTED: Machine learning is a subset of artificial intelligence that enables systems to learn from data.
+       ORIGINAL : Machine learning is a subset of artificial intelligence that enables systems to learn from data.
+
+  [3] SUBMITTED: Deep learning uses neural networks with many layers to analyze various factors of data.
+       ORIGINAL : Deep learning uses neural networks with many layers to analyze various factors of data.
+
+  [4] SUBMITTED: Natural language processing allows computers to understand and interpret human language.
+       ORIGINAL : Natural language processing allows computers to understand and interpret human language.
+
+  [5] SUBMITTED: Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment.
+       ORIGINAL : Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment.
+
+  [6] SUBMITTED: Algorithms are step-by-step procedures or formulas for solving problems or accomplishing tasks.
+       ORIGINAL : Algorithms are step-by-step procedures or formulas for solving problems or accomplishing tasks.
+
+  [7] SUBMITTED: Object-oriented programming is a programming paradigm based on the concept of objects.
+       ORIGINAL : Object-oriented programming is a programming paradigm based on the concept of objects.
+
+
+  RABIN-KARP SUMMARY
+----------------------------------------
+  Matched N-grams : 116 / 214
+  RK Similarity   : 54.21%
+======================================================================
