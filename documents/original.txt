@@ -1,0 +1,20 @@
+Artificial intelligence is the simulation of human intelligence processes by computer systems.
+Machine learning is a subset of artificial intelligence that enables systems to learn from data.
+Deep learning uses neural networks with many layers to analyze various factors of data.
+Natural language processing allows computers to understand and interpret human language.
+Computer vision enables machines to interpret and make decisions based on visual data.
+Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment.
+Data science combines domain expertise, programming skills, and knowledge of mathematics.
+Cloud computing delivers computing services over the internet including servers, storage, and software.
+Cybersecurity involves protecting systems, networks, and programs from digital attacks.
+Blockchain is a system of recording information in a way that makes it difficult or impossible to change.
+The Internet of Things refers to the network of physical objects embedded with sensors and software.
+Quantum computing uses quantum mechanics principles to perform computations.
+Augmented reality overlays digital information on the real world using devices like smartphones.
+Virtual reality creates a simulated environment that can be similar to or completely different from the real world.
+Software engineering is the systematic application of engineering approaches to software development.
+Algorithms are step-by-step procedures or formulas for solving problems or accomplishing tasks.
+Data structures are ways of organizing and storing data in a computer so it can be accessed efficiently.
+Object-oriented programming is a programming paradigm based on the concept of objects.
+Functional programming is a paradigm that treats computation as the evaluation of mathematical functions.
+Database management systems organize data for efficient retrieval, storage, and manipulation.
